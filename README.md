@@ -1,7 +1,7 @@
 # react_poc
 
 
-# Installation
+### Installation
 
 
 `npm install -g react-native-cli`
@@ -15,7 +15,7 @@
 `react-native run-ios (macOS only).`
 
 
-#For info
+### For info
 To add platform
 
 
@@ -24,5 +24,5 @@ to add ios platform
 
 
 to add both platform 
-
 `react-native upgrade`
+
